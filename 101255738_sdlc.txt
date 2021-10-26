@@ -1,0 +1,1 @@
+DevOps engineers are specialists who understand all possible processes of the development and operation cycle. These include: development, testing, product architecture, protection risk assessment, various automation methods, product support for both before and after release.
