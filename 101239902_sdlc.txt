@@ -1,1 +1,8 @@
 DevOps Engineering in the Software Development Cycle:
+
+DevOps is important because its a software development and operations approach that enables faster development of new products and easier maintenance of existing deployments. One of the biggest advantages of DevOps is the insight it provides, it forces organizations to optimize for the whole system to improve the business as a whole.
+
+A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates. They reduce the complexity, closing the gap between actions needed to quickly change an application, and the tasks that maintain its reliability. The tasks of a DevOps engineer not only rely on the understanding of the development life cycles, but DevOps culture, and its philosophy, practices, and tools.
+
+
+It is important for DevOps engineers to understand the fundamentals of application development and delivery.
