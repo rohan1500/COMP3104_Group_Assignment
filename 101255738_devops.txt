@@ -1,0 +1,1 @@
+DevOps is a techniques for solving problems in the interaction between the teams of operation and development. 
