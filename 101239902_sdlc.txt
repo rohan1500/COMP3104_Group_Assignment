@@ -6,3 +6,5 @@ A DevOps engineer introduces processes, tools, and methodologies to balance need
 
 
 It is important for DevOps engineers to understand the fundamentals of application development and delivery.
+
+Jillian Trafford - 101239902
