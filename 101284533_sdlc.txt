@@ -5,6 +5,9 @@ DevOps practices enable faster software releases through continuous delivery, an
 These practices enable software developers to achieve more growth. Various ways:-
 
 DevOps provides a competitive advantage to organizations.
+
 DevOps enable teams to follow the entire deployment cycle.
+
 DevOps is a unified approach to problem solving and company culture.
+
 A DevOps certification can help you stay relevant in an ever-evolving industry.
