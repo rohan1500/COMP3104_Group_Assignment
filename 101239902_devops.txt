@@ -1,0 +1,7 @@
+COMP3104 DevOps:
+
+DevOps is a a term collision from two major trends; software development, and information technology operations. It enables businesses to deliver applications at a faster rate and brings together development and operations teams so there are fewer redundancies in the software development process. 
+
+It has a set of processes that when applied correctly it can drastically reduce IT overhead, remove manual tasks both of a mundane or complex nature, enforce the best security practices and more.
+
+Jillian Trafford - 101239902

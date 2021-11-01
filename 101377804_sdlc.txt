@@ -1,0 +1,21 @@
+DevOps characterizes an agile connection between operations and development. It is a cycle polished by the development group and operational specialists together from the starting to the last phase of the item. Learning DevOps isn’t finished without understanding the DevOps lifecycle stages. The DevOps lifecycle incorporates seven stages as given underneath: 
+
+Continuous Development 
+This stage incorporates the orchestrating and coding of the item. The vision of the endeavor is picked during the orchestrating stage. Also, the designers start building up the code for the application. There are no DevOps apparatuses needed for arranging; however, there are a few devices for keeping up the code. 
+
+Continuous Integration 
+This stage is the core of the whole DevOps lifecycle. It is a product development practice in which the engineers need to submit changes to the source code all the more often. This might be on a day by day or week after week premise. At that point, each submission is fabricated, which permits the early location of issues if they are available. Construction regulation isn’t just elaborate aggregation. Yet, it incorporates unit testing, combination testing, code survey, and bundling.
+
+Continuous Monitoring 
+Monitoring is a stage that includes all the operational components of the whole DevOps measure. Significant data about the product’s utilization is recorded and deliberately handled to discover drifts and recognize trouble spots. Normally, the monitoring is incorporated inside the operational capacities of the product application. 
+
+Continuous Feedback 
+The application development is reliably improved by investigating the outcomes from the operations of the product. This is done by putting the basic period of steady feedback between the operations and the development of the following adaptation of the current programming application.
+
+Continuous Deployment 
+In this stage, the code is conveyed to the creation of workers. Likewise, it is basic to guarantee that the code is effectively utilized on all the workers. 
+The new code is conveyed continuously, and the design of the board instruments assume a fundamental function in executing assignments frequently and rapidly. Here are some mainstream instruments utilized in this stage, for example, Chef, Puppet, Ansible, and SaltStack. 
+
+Continuous Operations 
+All DevOps operations depend on the congruity with complete robotization of the delivery cycle and permit the association to quicken the general opportunity to advertise continuingly. 
+It is obvious from the conversation that progression is the basic factor in the DevOps in eliminating steps that frequently divert the development, take it longer to identify issues, and produce a superior rendition of the item following a while. With DevOps, we can make any product item more proficient and increment the general include of intrigued clients regarding your item.
